@@ -1,3 +1,3 @@
 # Number Guessing Game
 
-https://github.com/Vasconcellos-cipher/Repo-Algoritmo/tree/main/mini-projetos/Number-Guessing-Game
+[https://roadmap.sh/projects/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
